@@ -1,0 +1,5 @@
+SQLite history, scratch, and large intermediates
+.venv/
+__pycache__/
+*.pyc
+video/short/*.mp4.tmp

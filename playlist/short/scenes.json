@@ -1,0 +1,13 @@
+{
+  "vertical": true,
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/short/01-hook-map.jpg", "audio": ["audio/preview/short-01.wav"], "text": "HE CONQUERED INDIA… THEN GAVE IT BACK", "hold": 0.6 },
+    { "image": "assets/short/02-samudragupta-coin.jpg", "audio": ["audio/preview/short-02.wav"], "text": "SAMUDRAGUPTA · Undefeated", "hold": 0.6 },
+    { "image": "assets/short/03-allahabad-pillar.jpg", "audio": ["audio/preview/short-03.wav"], "text": "ALLAHABAD PILLAR · c. 335 CE", "hold": 0.6 },
+    { "image": "assets/short/04-restored-thrones.jpg", "audio": ["audio/preview/short-04.wav"], "text": "HE RESTORED THEIR THRONES", "hold": 0.6 },
+    { "image": "assets/short/05-gold-coins.jpg", "audio": ["audio/preview/short-05.wav"], "text": "VIKRAMADITYA · Sun of Kings", "hold": 0.6 },
+    { "image": "assets/short/06-outro.jpg", "audio": ["audio/preview/short-06.wav"], "text": "FULL STORY ON CHANNEL", "hold": 1.2 }
+  ]
+}
