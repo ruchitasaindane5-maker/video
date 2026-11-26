@@ -3,12 +3,12 @@
   "resolution": [1920, 1080],
   "fps": 30,
   "scenes": [
-    { "image": "assets/full/01-hook-map.jpg", "audio": ["audio/full/01-narrator.wav"], "text": "HE CONQUERED INDIA… THEN GAVE IT BACK", "hold": 0.8 },
-    { "image": "assets/full/02-chosen-prince.jpg", "audio": ["audio/full/02-narrator.wav", "audio/full/03-harisena.wav", "audio/full/04-narrator.wav"], "text": "CHOSEN, NOT BORN", "hold": 0.6 },
-    { "image": "assets/full/03-digvijaya-army.jpg", "audio": ["audio/full/05-narrator.wav", "audio/full/06-harisena.wav", "audio/full/07-narrator.wav"], "text": "CONQUEST IN EVERY DIRECTION", "hold": 0.6 },
-    { "image": "assets/full/04-poet-king-veena.jpg", "audio": ["audio/full/08-narrator.wav", "audio/full/09-harisena.wav", "audio/full/10-narrator.wav"], "text": "THE POET-KING · VEENA ON GOLD", "hold": 0.6 },
-    { "image": "assets/full/05-restored-thrones.jpg", "audio": ["audio/full/11-narrator.wav", "audio/full/12-historian.wav", "audio/full/13-narrator.wav"], "text": "HE RESTORED THEIR THRONES", "hold": 0.6 },
-    { "image": "assets/full/06-vikramaditya-sun.jpg", "audio": ["audio/full/14-narrator.wav"], "text": "VIKRAMADITYA · SUN OF KINGS", "hold": 0.6 },
-    { "image": "assets/full/07-allahabad-pillar.jpg", "audio": ["audio/full/15-narrator.wav"], "text": "EPISODE 2 COMING SOON", "hold": 1.5 }
+    { "image": "assets/full/01-hook-map.jpg", "audio": ["audio/ep1-full/01-narrator.wav"], "text": "भारत जीता… फिर लौटा दिया", "hold": 0.8 },
+    { "image": "assets/full/02-chosen-prince.jpg", "audio": ["audio/ep1-full/02-narrator.wav", "audio/ep1-full/03-narrator.wav", "audio/ep1-full/04-narrator.wav"], "text": "चुना गया, जन्म से नहीं", "hold": 0.6 },
+    { "image": "assets/full/03-digvijaya-army.jpg", "audio": ["audio/ep1-full/05-narrator.wav", "audio/ep1-full/06-narrator.wav", "audio/ep1-full/07-narrator.wav"], "text": "सब दिशाओं की विजय", "hold": 0.6 },
+    { "image": "assets/full/04-poet-king-veena.jpg", "audio": ["audio/ep1-full/08-narrator.wav", "audio/ep1-full/09-narrator.wav", "audio/ep1-full/10-narrator.wav"], "text": "कवि-सम्राट — सोने पर वीणा", "hold": 0.6 },
+    { "image": "assets/full/05-restored-thrones.jpg", "audio": ["audio/ep1-full/11-narrator.wav", "audio/ep1-full/12-narrator.wav", "audio/ep1-full/13-narrator.wav"], "text": "सिंहासन लौटा दिए", "hold": 0.6 },
+    { "image": "assets/full/06-vikramaditya-sun.jpg", "audio": ["audio/ep1-full/14-narrator.wav"], "text": "विक्रमादित्य — राजाओं का सूर्य", "hold": 0.6 },
+    { "image": "assets/full/07-allahabad-pillar.jpg", "audio": ["audio/ep1-full/15-narrator.wav"], "text": "एपिसोड 2 भी चैनल पर", "hold": 1.5 }
   ]
 }

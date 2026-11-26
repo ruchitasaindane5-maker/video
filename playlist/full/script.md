@@ -1,135 +1,55 @@
-# FULL VIDEO — The Untold Story of Samudragupta
-**Format:** YouTube Long · 16:9 · 1920×1080 · 8–10 minutes · ~1,350 words
-**Tone:** Cinematic documentary storytelling (brag tone: `cinematic`)
-**Voices:** NARRATOR (main) · HARISENA (court poet, inscription) · HISTORIAN (modern perspective, female alt)
+# Episode 1 — FULL VIDEO (16:9, ~7–8 min) — शुद्ध Hindi
 
-> Historical note: Samudragupta (r. c. 335–380 CE), son of Chandragupta I and Kumaradevi,
-> second ruler of the Gupta Empire. Primary source: Allahabad Pillar inscription (Prayaga Prashasti)
-> composed by his court poet Harisena. Also known as Vikramaditya. This script is a storytelling
-> retelling — dates are approximate (c.), as is standard for Gupta history.
+**Title:** समुद्रगुप्त — जिसने पूरा भारत जीत लिया… फिर लौटा दिया (पूरी अनकही कहानी)
+**Playlist:** The Untold Story of Samudragupta
+**Voice:** SINGLE FEMALE VOICE — voice-02 (narration), Hindi
+**On-screen text language:** Hindi (Devanagari)
 
----
+## Voice casting
+**Voiceover language: शुद्ध Hindi (Devanagari).** Single female voice — voice-02 throughout.
 
-## CHAPTER 1 — The Hook: The King Who Won Everything and Kept Nothing [0:00–0:45]
+## Chapters
 
-**NARRATOR:**
-Imagine conquering almost an entire subcontinent. Kings from the Himalayas to the Deccan surrender at your feet. Your army is undefeated. Your treasury is overflowing with gold.
-
-Now imagine… giving it all back.
-
-That is exactly what one Indian king did — sixteen hundred years ago. His name was Samudragupta. And his story is far stranger, and far more beautiful, than any textbook ever told you.
-
-**[On-screen: HE CONQUERED INDIA… THEN GAVE IT BACK]**
-
-## CHAPTER 2 — A Prince Chosen, Not Born to Rule [0:45–1:40]
-
-**NARRATOR:**
-Samudragupta was not the obvious heir. His father, Chandragupta the First, founder of the Gupta Empire, had many sons. But in the Allahabad Pillar inscription, we learn something remarkable. At a public assembly, the old king, with tears in his eyes, embraced Samudragupta and declared him worthy to rule the whole earth.
-
-**HARISENA:**
-"Fit to rule the whole earth… the chosen one, by the king himself, before the assembled court."
-
-**NARRATOR:**
-Chosen for merit. Not just birth. And when his reign began, around the year three thirty-five, India was not one empire. It was a patchwork of kingdoms — proud, ancient, and fiercely independent.
-
-Samudragupta would change that forever.
-
-## CHAPTER 3 — The Digvijaya: Conquest in Every Direction [1:40–3:20]
-
-**NARRATOR:**
-The inscription calls his campaigns a *digvijaya* — a conquest of all directions. And Harisena lists them like a poet counting stars.
-
-First, in Aryavarta — the heartland of northern India — he defeated nine kings. Kings whose names we still know from that single pillar of stone: Rudradeva, Matila, Nagasena, Chandravarman, and others. Their kingdoms were annexed. Their lands became Gupta land.
-
-Then he turned south. He crossed the Vindhyas, marched through the Deccan, and defeated twelve kings of Dakshinapatha — the southern country. But here is the untold part. He did not annex the south. He defeated them… and restored them.
-
-**HARISENA:**
-"He captured and released. He took their wealth and their elephants — and returned them to their thrones, in a spirit of grace."
-
-**NARRATOR:**
-Why? Because Samudragupta understood something many conquerors never learn. A kingdom you rule by fear lasts only as long as your army stands in it. A kingdom you rule by respect lasts for generations. He made allies, not slaves. And that is why his empire did not collapse the day he died.
-
-He also subdued the forest kingdoms of central India, the frontier kings of Bengal and Assam, and received tribute from distant lands — from the Kushanas in the northwest, from Ceylon, from foreign kings who sent embassies to his court.
-
-## CHAPTER 4 — The Poet-King: Veena, Poetry, and Gold [3:20–5:00]
-
-**NARRATOR:**
-But Samudragupta was not only a conqueror. The inscription praises him in words that sound almost unbelievable for a warrior king.
-
-**HARISENA:**
-"Equal to the gods in valour… a poet, a musician, a scholar of the Vedas… his intellect rivalled the great sage Vyasa himself."
-
-**NARRATOR:**
-His gold coins prove it. On them, he is not shown only with a bow and arrow. He is shown playing the veena — the Indian lute. He is shown hunting lions. He is shown performing the Ashvamedha, the horse sacrifice. No other Indian king put music on his money.
-
-He performed that sacrifice not once, but — the inscription says — a hundred times. A hundred horse sacrifices. In ancient India, that was the ultimate statement: *I am a universal emperor. I follow dharma. I am not just a king — I am a king of kings.*
-
-And yet, he was also a patron of learning. In his age, the great astronomer Aryabhata was writing the works that would give India its mathematics of zero and place value. Nalanda was rising as a centre of learning. The Gupta age — his age — would later be called India's Golden Age.
-
-## CHAPTER 5 — The Untold Secret: Why He Gave It Back [5:00–6:40]
-
-**NARRATOR:**
-So why did he restore the southern kings? Why did he not simply swallow India whole?
-
-Historians still debate this. Some say it was strategy — the south was too far, too proud, too difficult to hold directly. Others say it was philosophy. Samudragupta saw himself not as a landlord of land, but as a *dharmavijayi* — a victor through righteousness.
-
-In the ancient Indian theory of kingship, there were three kinds of conquerors. The *lobhavijayi*, who conquers for greed. The *bhayavijayi*, who conquers through fear. And the *dharmavijayi*, who conquers through dharma — who wins hearts, not just battles.
-
-Samudragupta, the inscription insists, was the third kind.
-
-**HISTORIAN:**
-"He built something rarer than an empire. He built a system of respect — where defeated kings became partners, not prisoners. That is why the Gupta Empire lasted long after him."
-
-**NARRATOR:**
-That is the untold story. Not a king who was too weak to keep India. A king wise enough to know how to keep it.
-
-## CHAPTER 6 — Vikramaditya, The Sun of Kings [6:40–7:50]
-
-**NARRATOR:**
-After his death, around the year three eighty, Samudragupta was remembered by a title greater than any battlefield: *Vikramaditya* — the Sun of Valour. The Sun of Kings.
-
-His son, Chandragupta the Second, would take that title even further. But it was Samudragupta who earned it first.
-
-And his legacy did not die with him. His coins are still found in hoards across northern India — gold, bright, detailed, perfect after sixteen centuries. His pillar still stands at Allahabad — Prayag — where the Ganga and Yamuna meet. Pilgrims, kings, and emperors have read his story carved in stone for over a thousand years.
-
-## CHAPTER 7 — Outro: Conqueror or King? [7:50–8:30]
-
-**NARRATOR:**
-So tell me. Was Samudragupta a conqueror… or a king?
-
-He was both. He conquered in every direction — and then conquered something harder. He conquered the temptation to rule by fear.
-
-That is the untold story of Samudragupta. And it is only Episode One.
-
-In the next episode, we will follow his son — Chandragupta the Second — the king who defeated the Sakas and took the title Vikramaditya to a new height. And we will ask: what happened to the empire Samudragupta built?
-
-If you learned something today, subscribe. Share this with someone who thinks Indian history is boring. It is not. It is the greatest story ever told.
-
-**[On-screen: EPISODE 2 COMING SOON · Subscribe 👇]**
-
----
-
-**Voiceover language: Hinglish (Devanagari हिंदी + English).**
-
-## Voice Casting (OmniVoice voice-design — multiple storytelling voices)
-
-| Speaker | OmniVoice `instruct` | VoiceStudio preset | Use |
+| # | Time | Chapter | On-screen text |
 |---|---|---|---|
-| NARRATOR | `male, middle aged, low pitch, british accent` | Narrator — Deep Storyteller | Main narration |
-| HARISENA | `male, elderly, low pitch, british accent` | Court Poet — Elderly, Formal | Inscription quotes |
-| HISTORIAN | `female, middle aged, british accent` | Historian — Warm, Clear | Modern perspective |
+| 1 | 0:00–0:45 | Hook | भारत जीता… फिर लौटा दिया |
+| 2 | 0:45–1:45 | चुना हुआ राजकुमार | चुना गया, जन्म से नहीं |
+| 3 | 1:45–3:20 | दिग्विजय | सब दिशाओं की विजय |
+| 4 | 3:20–5:00 | कवि-सम्राट | कवि-सम्राट — सोने पर वीणा |
+| 5 | 5:00–6:40 | अनकही बात | सिंहासन लौटा दिए |
+| 6 | 6:40–7:50 | विक्रमादित्य | विक्रमादित्य — राजाओं का सूर्य |
+| 7 | 7:50–8:30 | समापन | एपिसोड 2 भी चैनल पर |
 
-Generate with: `python tools/generate_voice_omnivoice.py --script playlist/full/voice-script.txt --out audio/full`
-Or in VoiceStudio: import `voice-script.txt`, assign each `[SPEAKER]` to its preset, Narrate → export WAV.
+## Script (voice-02, Hindi)
 
-## Chapters (for YouTube description)
+**Ch1 — Hook (0:45):** कल्पना कीजिए — पूरा उपमहाद्वीप जीत लेना। हिमालय से दक्कन तक राजा आपके चरणों में झुक जाएँ। सेना अजेय हो। कोष सोने से भरपूर हो। और फिर… वह सब लौटा देना। यही किया था एक भारतीय राजा ने… सोलह सौ साल पहले। उसका नाम था समुद्रगुप्त। और उसकी कहानी किसी भी पाठ्यपुस्तक से कहीं ज़्यादा अजीब… और कहीं ज़्यादा सुंदर है।
 
-```
-00:00 The King Who Won Everything and Kept Nothing
-00:45 A Prince Chosen, Not Born to Rule
-01:40 The Digvijaya: Conquest in Every Direction
-03:20 The Poet-King: Veena, Poetry, and Gold
-05:00 The Untold Secret: Why He Gave It Back
-06:40 Vikramaditya, The Sun of Kings
-07:50 Outro: Conqueror or King?
-```
+**Ch2 — चुना हुआ राजकुमार (1:00):** समुद्रगुप्त कोई स्वाभाविक उत्तराधिकारी नहीं थे। उनके पिता चन्द्रगुप्त प्रथम — गुप्त साम्राज्य के संस्थापक — के कई पुत्र थे। लेकिन इलाहाबाद स्तंभ शिलालेख में एक अद्भुत बात लिखी है। एक सार्वजनिक सभा में बूढ़ा राजा, आँखों में आँसू लेकर समुद्रगुप्त को गले लगाता है और घोषणा करता है कि यही पूरे भूमंडल पर शासन करने के योग्य है।
+
+**Ch2b (0:15):** "पूरी पृथ्वी पर शासन करने के योग्य" — यह चुना था स्वयं राजा ने, पूरी सभा के सामने।
+
+**Ch2c (0:55):** जन्म से नहीं… योग्यता से चुना गया। और जब उनका शासन शुरू हुआ — लगभग 335 ईस्वी में — तब भारत एक साम्राज्य नहीं था। यह छोटे-बड़े राज्यों का एक विशाल समूह था — गौरवशाली, प्राचीन और अपनी-अपनी स्वतंत्रता पर अडिग। समुद्रगुप्त ने इसे हमेशा के लिए बदल दिया।
+
+**Ch3 — दिग्विजय (1:35):** शिलालेख उनकी जीतों को कहता है "दिग्विजय" — चारों दिशाओं की विजय। और हरिषेण उन्हें कवि की तरह गिनते हैं। पहले आर्यावर्त में — उत्तर भारत के हृदय-प्रदेश में — उन्होंने नौ राजाओं को पराजित किया। उनके राज्य सम्मिलित हो गए। उनकी भूमि गुप्त भूमि बन गई। फिर वे दक्षिण की ओर मुड़े। उन्होंने विंध्य पार किए, दक्कन में कूच किया, और दक्षिणापथ के बारह राजाओं को पराजित किया। लेकिन यही है असली अनकही बात। उन्होंने दक्षिण को annex नहीं किया। उन्होंने उन्हें हराया… और वापस उनके सिंहासन पर बैठा दिया।
+
+**Ch3b (0:12):** उन्होंने उन्हें पराजित किया… फिर मुक्त किया। उनका कोष और उनके हाथी ले लिए… और उन्हें वापस उनके सिंहासनों पर पहुँचा दिया — कृपा के भाव से।
+
+**Ch3c (0:45):** क्यों? क्योंकि समुद्रगुप्त को वह बात समझ आ गई थी जो ज़्यादातर विजेता कभी नहीं समझते। डर के सहारे शासन की गई राज्य तभी तक टिकती है जब तक सेना वहाँ खड़ी रहे। सम्मान के सहारे शासन की गई राज्य पीढ़ियों तक टिकती है। उन्होंने मित्र बनाए, सेवक नहीं। और इसीलिए उनका साम्राज्य उनके मरने के दिन नहीं टूटा। उन्होंने मध्य भारत के वन-राज्यों को भी अधीन किया, बंगाल और असम के frontier राजाओं को, और दूर-दूर से tribute मिला — उत्तर-पश्चिम के कुषाणों से, सिंहल से, और दूर के विदेशी राजाओं से जो उनके दरबार में दूत भेजते थे।
+
+**Ch4 — कवि-सम्राट (0:12):** लेकिन समुद्रगुप्त सिर्फ विजेता नहीं थे। शिलालेख उनकी तारीफ़ कुछ ऐसे शब्दों में करता है जो एक योद्धा राजा के लिए लगभग अकल्पनीय हैं।
+
+**Ch4b (0:16):** "देवताओं की भाँति पराक्रमी" — एक कवि, एक संगीतज्ञ, वेदों के विद्वान — उनकी बुद्धि की तुलना महान ऋषि व्यास से की गई है।
+
+**Ch4c (1:30):** उनके सोने के सिक्के इसकी गवाही देते हैं। उन पर वे सिर्फ धनुष-बाण के साथ नहीं दिखते। वे वीणा बजाते दिखते हैं। वे सिंहों का शिकार करते दिखते हैं। वे अश्वमेध — घोड़े का यज्ञ — करते दिखते हैं। किसी और भारतीय राजा ने अपने सिक्के पर संगीत नहीं दिखाया। उन्होंने वह यज्ञ एक बार नहीं… शिलालेख कहता है… सौ बार किया। सौ अश्वमेध यज्ञ। प्राचीन भारत में इसका अर्थ था: मैं सार्वभौम सम्राट हूँ। मैं धर्म का पालन करता हूँ। मैं सिर्फ राजा नहीं हूँ… मैं राजाओं का राजा हूँ। और फिर भी, वे ज्ञान के संरक्षक भी थे। उनके युग में महान खगोलशास्त्री आर्यभट्ट उस कार्य पर लिख रहे थे जिसने भारत को शून्य और स्थानात्मक मान की गणित दी। नालंदा ज्ञान का केंद्र बन रहा था। गुप्त युग… उनका युग… जिसे बाद में भारत का स्वर्णयुग कहा गया।
+
+**Ch5 — अनकही बात (1:05):** तो फिर उन्होंने दक्षिण के राजाओं को वापस क्यों बैठाया? उन्होंने भारत को पूरा निगल क्यों नहीं लिया? इतिहासकार आज भी बहस करते हैं। कुछ का कहना है यह रणनीति थी — दक्षिण बहुत दूर था, बहुत स्वाभिमानी था, सीधे संभालना कठिन था। दूसरे का कहना है यह दर्शन था। समुद्रगुप्त अपने को भूमि का स्वामी नहीं, बल्कि एक धर्मविजयी मानते थे — धर्म के माध्यम से विजय पाने वाला। प्राचीन भारतीय राज-शास्त्र में तीन तरह के विजेता होते थे। लोभविजयी — जो लोभ के लिए जीतता है। भयविजयी — जो डर से जीतता है। और धर्मविजयी — जो धर्म से जीतता है… जो युद्ध नहीं, हृदय जीतता है। शिलालेख इस बात पर कायम है — समुद्रगुप्त तीसरी तरह के थे।
+
+**Ch5b (0:22):** उन्होंने साम्राज्य से भी दुर्लभ चीज़ बनाई। उन्होंने सम्मान की एक व्यवस्था बनाई… जहाँ पराजित राजा भागीदार बने, युद्धबंदी नहीं। इसीलिए गुप्त साम्राज्य उनके बाद लंबे समय तक टिकती रही।
+
+**Ch5c (0:12):** यही है अनकही कहानी। वे कमजोर राजा नहीं थे कि भारत को रख नहीं पाते। वे इतने समझदार थे कि उसे रखने का सही तरीका जानते थे।
+
+**Ch6 — विक्रमादित्य (1:10):** उनकी मृत्यु के बाद — लगभग 380 ईस्वी में — समुद्रगुप्त को किसी युद्धभूमि से भी बड़ा उपाधि मिला: विक्रमादित्य… पराक्रम का सूर्य। राजाओं का सूर्य। उनके पुत्र चन्द्रगुप्त द्वितीय ने वह उपाधि और भी ऊंचा उठाई। लेकिन उसे सबसे पहले अर्जित समुद्रगुप्त ने किया। और उनकी विरासत उनके साथ नहीं मरी। उनके सिक्के आज भी उत्तर भारत में निधियों में मिलते हैं… सोने के, चमकते, सटीक — सोलह शताब्दियों बाद भी एकदम सही। उनका स्तंभ आज भी इलाहाबाद में खड़ा है… प्रयाग में… जहाँ गंगा और यमुना मिलती हैं। हज़ार साल से ज़्यादा समय से तीर्थयात्री, राजा और सम्राट उनकी कहानी पत्थर पर खुदी पढ़ते आए हैं।
+
+**Ch7 — समापन (0:50):** तो बताइए। समुद्रगुप्त विजेता था… या राजा? वह दोनों था। उसने हर दिशा में विजय पाई… और फिर सबसे कठिन चीज़ जीती। उसने डर से शासन करने के लोभ पर विजय पाई। यही है समुद्रगुप्त की अनकही कहानी। और यह सिर्फ एपिसोड 1 था। एपिसोड 2 में हम उनके पुत्र के साथ चलेंगे — चन्द्रगुप्त द्वितीय — जिसने शकों का अंत किया और विक्रमादित्य उपाधि को नई ऊंचाइयों पर ले गया। आप उसे चैनल पर देख सकते हैं। अगर आपको कुछ नया सीखने को मिला — subscribe कीजिए। इसे उस दोस्त के साथ share कीजिए जो सोचता है भारतीय इतिहास उबाऊ है। यह उबाऊ नहीं है — यह अब तक की सबसे बड़ी कहानी है।
+
+Hashtags: #समुद्रगुप्त #GuptaEmpire #IndianHistory #AllahabadPillar #Vikramaditya #GoldenAge #IndianHistoryUntold

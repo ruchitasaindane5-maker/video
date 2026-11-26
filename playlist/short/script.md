@@ -1,58 +1,36 @@
-# SHORT — The Untold Story of Samudragupta
-**Format:** YouTube Shorts · 9:16 vertical · 1080×1920 · ~50 seconds · ~140 words
-**Tone:** Cinematic storytelling (brag tone: `cinematic`)
-**Voices:** NARRATOR (main) + HARISENA (inscription quote)
+# Episode 1 — SHORT (~50s, 9:16) — शुद्ध Hindi
 
----
+**Title:** जिसने पूरा भारत जीत लिया… फिर लौटा दिया? #shorts
+**Playlist:** The Untold Story of Samudragupta
+**Voice:** SINGLE FEMALE VOICE — voice-02 (narration), Hindi
+**On-screen text language:** Hindi (Devanagari)
 
-## Full Script (read aloud — timing in brackets)
+## Scene list
 
-**[0:00–0:04 · HOOK — Scene 1]**
-> **NARRATOR:** He conquered almost all of India… in forty years. And then — he gave it back.
+| # | Time | Image | On-screen text | Voice |
+|---|---|---|---|---|
+| 1 | 0:00–0:07 | `assets/short/01-hook-map.jpg` — भारत का glowing गुप्त नक्शा | भारत जीता… फिर लौटा दिया | NARRATOR |
+| 2 | 0:07–0:15 | `assets/short/02-samudragupta-coin.jpg` — समुद्रगुप्त का सोने का सिक्का, वीणा | समुद्रगुप्त — अजेय | NARRATOR |
+| 3 | 0:15–0:24 | `assets/short/03-allahabad-pillar.jpg` — इलाहाबाद स्तंभ शिलालेख | इलाहाबाद स्तंभ — 335 ईस्वी | NARRATOR |
+| 4 | 0:24–0:36 | `assets/short/04-restored-thrones.jpg` — राजा झुकते, फिर सिंहासन पर | सिंहासन लौटा दिए | NARRATOR |
+| 5 | 0:36–0:44 | `assets/short/05-gold-coins.jpg` — गुप्त सोने के सिक्के | विक्रमादित्य — राजाओं का सूर्य | NARRATOR |
+| 6 | 0:44–0:52 | `assets/short/06-outro.jpg` — गुप्त मंदिर द्वार, सूर्योदय | पूरी कहानी चैनल पर | NARRATOR |
 
-**[0:04–0:12 · Scene 2]**
-> **NARRATOR:** This is Samudragupta. The undefeated king of the Gupta Empire. No Indian king before him had won so much.
+## Voice casting
+**Voiceover language: शुद्ध Hindi (Devanagari).** Single female voice — voice-02 throughout.
 
-**[0:12–0:22 · Scene 3]**
-> **HARISENA:** *(reading the Allahabad Pillar inscription)* "Kings surrendered at his feet. Their crowns touched the dust. And he restored them — to their thrones."
+## Script (voice-02, Hindi)
 
-**[0:22–0:34 · Scene 4]**
-> **NARRATOR:** He didn't keep their kingdoms. He didn't loot. He performed a hundred horse sacrifices — and still, he is remembered not as a tyrant… but as a scholar, a poet, and a musician.
+**S1 (7s):** चालीस साल में करीब पूरा भारत जीत लिया… और फिर — लौटा दिया।
 
-**[0:34–0:44 · Scene 5]**
-> **NARRATOR:** His gold coins still shine after sixteen hundred years. His name? Vikramaditya. The Sun of Kings.
+**S2 (8s):** ये थे समुद्रगुप्त — गुप्त साम्राज्य के अजेय सम्राट। इनसे पहले किसी भी भारतीय राजा ने इतना कुछ जीत नहीं सका।
 
-**[0:44–0:50 · OUTRO / CTA — Scene 6]**
-> **NARRATOR:** The full untold story is on the channel. Follow for Episode 2 — and tell me: conqueror… or king?
+**S3 (9s):** राजा उनके पैरों पर झुक गए। उनके मुकुट मिट्टी को छू गए। और उन्होंने उन्हें… वापस उनके सिंहासन पर बैठा दिया।
 
----
+**S4 (12s):** उन्होंने उनकी रियासतें नहीं रखीं। कोई लूटपाट नहीं। उन्होंने सैकड़ों अश्वमेध यज्ञ किए… और फिर भी उन्हें याद किया जाता है — ना कि एक तानाशाह के रूप में — बल्कि एक विद्वान, एक कवि, एक संगीतकार के रूप में।
 
-## On-Screen Text (burned-in subtitles)
+**S5 (8s):** उनके सोने के सिक्के आज भी चमकते हैं — सोलह सौ साल बाद। उनका नाम? विक्रमादित्य — राजाओं का सूर्य।
 
-| Scene | Big text (first 2 sec of scene) | Subtitle line |
-|---|---|---|
-| 1 | HE CONQUERED INDIA… | He conquered almost all of India… in forty years. |
-| 1 | …THEN GAVE IT BACK | And then — he gave it back. |
-| 2 | SAMUDRAGUPTA | The undefeated king of the Gupta Empire |
-| 3 | ALLAHABAD PILLAR · c. 335 CE | "Kings surrendered at his feet…" — Harisena |
-| 4 | HE RESTORED THEIR THRONES | Not a tyrant. A scholar. A poet. A musician. |
-| 5 | VIKRAMADITYA | The Sun of Kings · 1,600 years later, still shining |
-| 6 | FULL STORY ON CHANNEL | Follow for Episode 2 👇 |
+**S6 (8s):** पूरी अनकही कहानी playlist चैनल पर है। एपिसोड 2 — चन्द्रगुप्त द्वितीय की भी देख लीजिए। और बताइए — विजेता… या राजा?
 
-## Production Notes
-- **Pacing:** Fast-in, then hold. Every subtitle line stays ≥1.2s. No flashing text.
-- **Music:** Low tanpura drone + soft tabla, ducked under voice (-18 dB). Use brag bundled track at low volume or royalty-free drone.
-- **SFX:** Single deep drum hit on "gave it back", soft coin shimmer on Scene 5.
-- **Safe zone (Shorts):** Keep text between 13%–80% of height; avoid bottom-right buttons area.
-- **Thumbnail frame:** Scene 2 — Samudragupta on gold coin, text "HE GAVE IT BACK?"
-
-**Voiceover language: Hinglish (Devanagari हिंदी + English).**
-
-## Voice Casting (OmniVoice voice-design)
-| Speaker | OmniVoice `instruct` | VoiceStudio preset |
-|---|---|---|
-| NARRATOR | `male, middle aged, low pitch, british accent` | Narrator — Deep Storyteller |
-| HARISENA | `male, elderly, low pitch, british accent` | Court Poet — Elderly, Formal |
-| ALT (optional female) | `female, middle aged, british accent` | Historian — Warm, Clear |
-
-Generate with: `python tools/generate_voice_omnivoice.py --script playlist/short/voice-script.txt --out audio/short`
+Hashtags: #समुद्रगुप्त #GuptaEmpire #IndianHistory #UntoldStory #Shorts
