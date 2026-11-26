@@ -1,0 +1,13 @@
+{
+  "vertical": true,
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep2-short/01-saka-court.jpg", "audio": ["audio/ep2-short/01-narrator.wav"], "text": "उसने शकों को उखाड़ फेंका", "hold": 0.6 },
+    { "image": "assets/ep2-short/02-two-brothers.jpg", "audio": ["audio/ep2-short/02-narrator.wav"], "text": "तख़्त मिला बड़े को", "hold": 0.6 },
+    { "image": "assets/ep2-short/03-night-camp.jpg", "audio": ["audio/ep2-short/03-narrator.wav"], "text": "एक रात की चाल", "hold": 0.6 },
+    { "image": "assets/ep2-short/04-ujjain-conquest.jpg", "audio": ["audio/ep2-short/04-narrator.wav"], "text": "उज्जैन की विजय", "hold": 0.6 },
+    { "image": "assets/ep2-short/05-navratna-court.jpg", "audio": ["audio/ep2-short/05-narrator.wav"], "text": "दरबार में कालिदास", "hold": 0.6 },
+    { "image": "assets/ep2-short/06-outro-sun.jpg", "audio": ["audio/ep2-short/06-narrator.wav"], "text": "असली विक्रमादित्य", "hold": 1.2 }
+  ]
+}
