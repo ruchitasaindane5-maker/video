@@ -25,5 +25,5 @@
 
 ## Gate
 - [x] Storyboard + chapters defined → this plan
-- [ ] brag.mp4 exists → pending full audio batch (OmniVoice blocked by HF Hub network restriction in sandbox; Arena TTS previews in use)
+- [x] brag.mp4 exists → `video/full/samudragupta-full-hinglish.mp4` (440.2s ≈ 7:20, 1920×1080, 3 Hinglish voices)
 - [x] Share copy written → `brag-output-full/share-copy.txt`

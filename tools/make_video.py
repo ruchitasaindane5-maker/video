@@ -24,6 +24,15 @@ import imageio_ffmpeg
 import numpy as np
 import soundfile as sf
 from PIL import Image, ImageDraw, ImageFont
+from scipy.signal import resample_poly
+
+
+def resample(mono: np.ndarray, sr_in: int, sr_out: int) -> np.ndarray:
+    if sr_in == sr_out:
+        return mono.astype(np.float32)
+    from math import gcd
+    g = gcd(sr_in, sr_out)
+    return resample_poly(mono, sr_out // g, sr_in // g).astype(np.float32)
 
 FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 
@@ -51,10 +60,7 @@ def load_scene_audio(files, sr_target=44100):
         data, sr = sf.read(f, dtype="float32", always_2d=True)
         mono = data.mean(axis=1)
         if sr != sr_target:
-            n = int(round(len(mono) * sr_target / sr))
-            mono = np.interp(
-                np.linspace(0, len(mono) - 1, n), np.arange(len(mono)), mono
-            ).astype(np.float32)
+            mono = resample(mono, sr, sr_target)
         parts.append(mono)
         parts.append(pause)
     return np.concatenate(parts), sr_target
@@ -147,7 +153,7 @@ def render_scene(idx, scene, W, H, fps, workdir: Path):
         f"[0:v]{vf}[bg];[bg][2:v]overlay=0:0[v];"
         f"[1:a]afade=t=in:st=0:d=0.1,afade=t=out:st={max(0.0, dur-0.4):.3f}:d=0.4[a]",
         "-map", "[v]", "-map", "[a]",
-        "-c:v", "libx264", "-crf", "20", "-preset", "medium",
+        "-c:v", "libx264", "-crf", "20", "-preset", "fast",
         "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
         "-shortest", str(out),
     ])
