@@ -66,39 +66,18 @@ def load_scene_audio(files, sr_target=44100):
     return np.concatenate(parts), sr_target
 
 
-def make_caption_overlay(text: str, W: int, H: int) -> Image.Image:
+def make_caption_overlay(W: int, H: int) -> Image.Image:
+    """Dark bottom bar + gold accent line + English brand tag.
+    Hindi/Unicode caption text is drawn by ffmpeg drawtext (HarfBuzz) —
+    PIL without raqm cannot shape Devanagari."""
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     vertical = H > W
     bar_h = int(H * (0.14 if vertical else 0.17))
     y0 = H - bar_h
-    # gold accent line
-    d.rectangle([0, y0, W, y0 + max(4, H // 240)], fill=(212, 175, 55, 255))
+    accent = max(4, H // 240)
     d.rectangle([0, y0, W, H], fill=(8, 6, 4, 165))
-    d.rectangle([0, y0, W, y0 + max(4, H // 240)], fill=(212, 175, 55, 255))
-    size = int(H * (0.034 if vertical else 0.046))
-    font = get_font(size)
-    # wrap text to fit width
-    words, lines, cur = text.split(), [], ""
-    max_w = int(W * 0.86)
-    for w in words:
-        trial = (cur + " " + w).strip()
-        if d.textbbox((0, 0), trial, font=font)[2] <= max_w:
-            cur = trial
-        else:
-            if cur:
-                lines.append(cur)
-            cur = w
-    if cur:
-        lines.append(cur)
-    total_h = len(lines) * int(size * 1.35)
-    ty = y0 + (bar_h - total_h) // 2 + int(size * 0.15)
-    for line in lines:
-        bbox = d.textbbox((0, 0), line, font=font)
-        tw = bbox[2] - bbox[0]
-        d.text(((W - tw) / 2, ty), line, font=font, fill=(245, 226, 158, 255))
-        ty += int(size * 1.35)
-    # small corner tag
+    d.rectangle([0, y0, W, y0 + accent], fill=(212, 175, 55, 255))
     tag_font = get_font(int(H * 0.020))
     d.text((int(W * 0.045), int(H * 0.028)), "THE UNTOLD STORY OF SAMUDRAGUPTA",
             font=tag_font, fill=(212, 175, 55, 220))
@@ -130,9 +109,26 @@ def render_scene(idx, scene, W, H, fps, workdir: Path):
     dur = len(audio) / sr
     frames = max(1, int(round(dur * fps)))
 
-    # caption overlay png
+    # caption overlay png (bar + tag only)
     overlay_path = workdir / f"overlay-{idx:02d}.png"
-    make_caption_overlay(scene.get("text", ""), W, H).save(overlay_path)
+    overlay = make_caption_overlay(W, H)
+    overlay.save(overlay_path)
+
+    # caption text file for ffmpeg drawtext (HarfBuzz shapes Devanagari)
+    caption_path = workdir / f"caption-{idx:02d}.txt"
+    caption_path.write_text(scene.get("text", "").replace("·", "—"), encoding="utf-8")
+    vertical = H > W
+    bar_h = int(H * (0.14 if vertical else 0.17))
+    bar_top = H - bar_h
+    fontsize = int(H * (0.036 if vertical else 0.046))
+    cap_y = bar_top + (bar_h - fontsize) // 2
+    caption_text = scene.get("text", "")
+    has_deva = any("\u0900" <= ch <= "\u097f" for ch in caption_text)
+    noto_bold = Path(__file__).parent / "fonts" / "NotoSansDevanagari-Bold.ttf"
+    if has_deva and noto_bold.exists():
+        font_arg = str(noto_bold)  # NotoSansDevanagari has no Latin glyphs — keep Deva captions pure
+    else:
+        font_arg = FONT_CANDIDATES[0]
 
     out = workdir / f"scene-{idx:02d}.mp4"
     vf = (
@@ -150,7 +146,9 @@ def render_scene(idx, scene, W, H, fps, workdir: Path):
         "-i", str(scene_wav),
         "-loop", "1", "-framerate", str(fps), "-i", str(overlay_path),
         "-filter_complex",
-        f"[0:v]{vf}[bg];[bg][2:v]overlay=0:0[v];"
+        f"[0:v]{vf}[bg];[bg][2:v]overlay=0:0[ov];"
+        f"[ov]drawtext=fontfile={font_arg}:textfile={caption_path}:"
+        f"fontcolor=0xF5E29E:fontsize={fontsize}:x=(w-text_w)/2:y={cap_y}[v];"
         f"[1:a]afade=t=in:st=0:d=0.1,afade=t=out:st={max(0.0, dur-0.4):.3f}:d=0.4[a]",
         "-map", "[v]", "-map", "[a]",
         "-c:v", "libx264", "-crf", "20", "-preset", "fast",

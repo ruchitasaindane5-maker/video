@@ -1,0 +1,15 @@
+{
+  "vertical": false,
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep2-full/01-empire-map.jpg", "audio": ["audio/ep2-full/01-narrator.wav"], "text": "विक्रमादित्य: असली कहानी", "hold": 0.8 },
+    { "image": "assets/ep2-full/02-succession.jpg", "audio": ["audio/ep2-full/02-narrator.wav"], "text": "विरासत बंटी", "hold": 0.6 },
+    { "image": "assets/ep2-full/03-dhruvadevi-legend.jpg", "audio": ["audio/ep2-full/03-narrator.wav"], "text": "एक रात की चाल", "hold": 0.6 },
+    { "image": "assets/ep2-full/04-saka-war.jpg", "audio": ["audio/ep2-full/04-narrator.wav"], "text": "शकों का अंत", "hold": 0.6 },
+    { "image": "assets/ep2-full/05-navratna-court.jpg", "audio": ["audio/ep2-full/05-narrator.wav"], "text": "नवरत्न — कालिदास", "hold": 0.6 },
+    { "image": "assets/ep2-full/06-golden-age.jpg", "audio": ["audio/ep2-full/06-narrator.wav"], "text": "बिना भय के जीवन", "hold": 0.6 },
+    { "image": "assets/ep2-full/07-coins-pillar.jpg", "audio": ["audio/ep2-full/07-narrator.wav"], "text": "सिक्के गवाह हैं", "hold": 0.6 },
+    { "image": "assets/ep2-full/08-outtro.jpg", "audio": ["audio/ep2-full/08-narrator.wav"], "text": "एपिसोड 3: स्कान्दगुप्त", "hold": 1.5 }
+  ]
+}
