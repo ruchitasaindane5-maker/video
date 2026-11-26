@@ -103,3 +103,16 @@ python tools/make_video.py --script playlist/full/script.md  --assets assets/ful
 ```
 
 See `tools/README.md` for the full brag + OmniVoice + VoiceStudio workflow.
+
+
+## Episode 2 — चन्द्रगुप्त द्वितीय (in progress)
+**Title (Short):** जिसने Sakas को हमेशा के लिए मिटा दिया… वो था असली विक्रमादित्य? #shorts
+**Title (Full):** चन्द्रगुप्त द्वितीय — वह सम्राट जिसने Sakas का अंत किया और 'विक्रमादित्य' बन गया
+**Language:** शुद्ध Hindi (Devanagari), SINGLE FEMALE VOICE (voice-02) — कोई Hinglish नहीं
+- `playlist/ep2/short/` — script + voice-script (6 scenes) + storyboard
+- `playlist/ep2/full/` — script (8 chapters) + voice-script + storyboard
+- `audio/preview/ep2-short-hindi-preview.mp3` — Short voice preview (all 6 lines)
+- `audio/preview/ep2-full-hindi-preview.mp3` — Full sample preview (Hook + नवरत्न/कालिदास)
+
+Images (`assets/ep2-short/`, `assets/ep2-full/`) and final renders pending user approval of audio preview.
+Note: रामगुप्त–ध्रुवदेवी कथा drama "देवीचन्द्रगुप्तम्" से आई है — scripts इसे legend-as-such mark करती हैं; Iron Pillar / नवरत्न / विक्रम संवत् myth corrections included for accuracy.
