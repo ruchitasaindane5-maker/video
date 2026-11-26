@@ -67,6 +67,8 @@ playlist/
 assets/short/              ← images for Short (9:16)
 assets/full/               ← images for Full Video (16:9)
 audio/preview/             ← Hinglish multi-voice audio previews (NARRATOR/HARISENA/HISTORIAN)
+audio/full/                ← full-episode Hinglish scene lines (Arena TTS; OmniVoice blocked by HF Hub network)
+docs/audit-report.md       ← automated media audit (clipping/DC/dead-air/silence/dims) — 0 issues
 audio/README.md            ← how to regenerate final voices with OmniVoice
 tools/
   generate_voice_omnivoice.py  ← multi-voice storytelling with OmniVoice
