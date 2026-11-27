@@ -1,0 +1,15 @@
+{
+  "vertical": false,
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep3-full/01-huna-map.jpg", "audio": ["audio/ep3-full/01-narrator.wav"], "text": "गुप्तों का आखिरी महान सम्राट", "hold": 0.8 },
+    { "image": "assets/ep3-full/02-kumaragupta.jpg", "audio": ["audio/ep3-full/02-narrator.wav"], "text": "हूणों की आहट", "hold": 0.6 },
+    { "image": "assets/ep3-full/03-battle.jpg", "audio": ["audio/ep3-full/03-narrator.wav"], "text": "हूणों को खदेड़ दिया", "hold": 0.6 },
+    { "image": "assets/ep3-full/04-bhitari-pillar.jpg", "audio": ["audio/ep3-full/04-narrator.wav"], "text": "भेतरी स्तंभ की गवाही", "hold": 0.6 },
+    { "image": "assets/ep3-full/05-sudarshana-lake.jpg", "audio": ["audio/ep3-full/05-narrator.wav"], "text": "सुदर्शन झील", "hold": 0.6 },
+    { "image": "assets/ep3-full/06-decline-coins.jpg", "audio": ["audio/ep3-full/06-narrator.wav"], "text": "जीत की कीमत", "hold": 0.6 },
+    { "image": "assets/ep3-full/07-outro.jpg", "audio": ["audio/ep3-full/07-narrator.wav"], "text": "सच दोनों के बीच है", "hold": 0.6 },
+    { "image": "assets/ep3-full/07-outro.jpg", "audio": ["audio/ep3-full/08-narrator.wav"], "text": "एपिसोड 4 — गुप्त सूर्यास्त", "hold": 1.5 }
+  ]
+}

@@ -118,3 +118,12 @@ See `tools/README.md` for the full brag + OmniVoice + VoiceStudio workflow.
 
 **Status: COMPLETE** — audio approved; `video/ep2/ep2-short-hindi.mp4` (74.5s) and `video/ep2/ep2-full-hindi.mp4` (5:21, 321s, 8 chapters) rendered; Devanagari captions verified.
 Note: रामगुप्त–ध्रुवदेवी कथा drama "देवीचन्द्रगुप्तम्" से आई है — scripts इसे legend-as-such mark करती हैं; Iron Pillar / नवरत्न / विक्रम संवत् myth corrections included for accuracy.
+
+
+## Episode 3 — स्कान्दगुप्त और हूण (in progress)
+**Title (Short):** वो दीवार जिसने भारत को बचाया — Skandagupta #shorts
+**Title (Full):** Skandagupta — वो आखिरी दीवार: हूण जिन्होंने गुप्त साम्राज्य को हिला दिया था (पूरा सच)
+**Language:** शुद्ध Hindi (Devanagari), SINGLE FEMALE VOICE (voice-02)
+- `playlist/ep3/short/` + `playlist/ep3/full/` — scripts, storyboards, scenes.json
+- Short rendered: `video/ep3/ep3-short-hindi.mp4` (67.1s)
+- **Status: COMPLETE** — `video/ep3/ep3-full-hindi.mp4` (4:21, 261s) + Short (67.1s) rendered; Hindi, voice-02
