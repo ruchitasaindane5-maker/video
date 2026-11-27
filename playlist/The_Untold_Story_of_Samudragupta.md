@@ -126,4 +126,4 @@ Note: रामगुप्त–ध्रुवदेवी कथा drama "�
 **Language:** शुद्ध Hindi (Devanagari), SINGLE FEMALE VOICE (voice-02)
 - `playlist/ep3/short/` + `playlist/ep3/full/` — scripts, storyboards, scenes.json
 - Short rendered: `video/ep3/ep3-short-hindi.mp4` (67.1s)
-- Full: 4/8 voice lines done; images 05-07 pending; render pending
+- **Status: COMPLETE** — `video/ep3/ep3-full-hindi.mp4` (4:21, 261s) + Short (67.1s) rendered; Hindi, voice-02
