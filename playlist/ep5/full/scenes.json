@@ -1,0 +1,15 @@
+{
+  "vertical": false,
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep5-full/01-harsha-map.jpg", "audio": ["audio/ep5-full/01-narrator.wav"], "text": "हर्ष — उत्तर भारत का आखिरी बड़ा राजा", "hold": 0.8 },
+    { "image": "assets/ep5-full/02-young-harsh-throne.jpg", "audio": ["audio/ep5-full/02-narrator.wav"], "text": "16 की उम्र में सम्राट", "hold": 0.6 },
+    { "image": "assets/ep5-full/03-kannauj-court.jpg", "audio": ["audio/ep5-full/03-narrator.wav"], "text": "कन्नौज बनी राजधानी", "hold": 0.6 },
+    { "image": "assets/ep5-full/04-narmada-limit.jpg", "audio": ["audio/ep5-full/04-narrator.wav"], "text": "नर्मदा की दीवार", "hold": 0.6 },
+    { "image": "assets/ep5-full/05-hsien-tsang.jpg", "audio": ["audio/ep5-full/05-narrator.wav"], "text": "ह्वेनसांग और नालंदा", "hold": 0.6 },
+    { "image": "assets/ep5-full/06-death-dispersion.jpg", "audio": ["audio/ep5-full/06-narrator.wav"], "text": "647 — मृत्यु और बिखराव", "hold": 0.6 },
+    { "image": "assets/ep5-full/07-outro.jpg", "audio": ["audio/ep5-full/07-narrator.wav"], "text": "सच क्या था?", "hold": 0.6 },
+    { "image": "assets/ep5-full/07-outro.jpg", "audio": ["audio/ep5-full/08-narrator.wav"], "text": "playlist पूरी करें", "hold": 1.5 }
+  ]
+}

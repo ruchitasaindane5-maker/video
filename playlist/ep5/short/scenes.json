@@ -1,0 +1,13 @@
+{
+  "vertical": true,
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep5-short/01-harsha-map.jpg", "audio": ["audio/ep5-short/01-narrator.wav"], "text": "हर्ष की गाथा", "hold": 0.6 },
+    { "image": "assets/ep5-short/02-young-harsh-throne.jpg", "audio": ["audio/ep5-short/02-narrator.wav"], "text": "16 की उम्र में सिंहासन", "hold": 0.6 },
+    { "image": "assets/ep5-short/03-kannauj-court.jpg", "audio": ["audio/ep5-short/03-narrator.wav"], "text": "कन्नौज बनी राजधानी", "hold": 0.6 },
+    { "image": "assets/ep5-short/04-narmada-limit.jpg", "audio": ["audio/ep5-short/04-narrator.wav"], "text": "नर्मदा की दीवार", "hold": 0.6 },
+    { "image": "assets/ep5-short/05-hsien-tsang.jpg", "audio": ["audio/ep5-short/05-narrator.wav"], "text": "ह्वेनसांग की डायरी", "hold": 0.6 },
+    { "image": "assets/ep5-short/06-outro.jpg", "audio": ["audio/ep5-short/06-narrator.wav"], "text": "हर्ष की विरासत", "hold": 1.2 }
+  ]
+}
