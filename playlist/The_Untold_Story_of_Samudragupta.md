@@ -138,10 +138,11 @@ Note: रामगुप्त–ध्रुवदेवी कथा drama "�
 - **Status: COMPLETE** — `video/ep4/ep4-full-hindi.mp4` (3:44, 224s) + Short (63.1s) rendered; Hindi, voice-02
 
 
-## Episode 5 — हर्षवर्धन (in progress)
+## Episode 5 — हर्षवर्धन (COMPLETE)
 **Title (Short):** वो 16 साल का लड़का जिसने फिर से भारत को एक किया — Harsha #shorts
 **Title (Full):** हर्ष — वो 16 साल का लड़का जिसने फिर से भारत को एक किया | Harshavardhana (पूरा सच)
 **Language:** शुद्ध Hindi (Devanagari), SINGLE FEMALE VOICE (voice-02)
 - `playlist/ep5/short/` + `playlist/ep5/full/` — scripts, storyboards, scenes.json
 - Short rendered: `video/ep5/ep5-short-hindi.mp4` (64.8s)
-- Full: 4/8 voice lines; images 05-07 pending; render pending
+- Full rendered: `video/ep5/ep5-full-hindi.mp4` (292.6s, 8 scenes)
+- Status: Short + Full COMPLETE — शुद्ध Hindi, single female voice-02
