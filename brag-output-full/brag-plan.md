@@ -3,7 +3,7 @@
 **Product:** YouTube playlist "The Untold Story of Samudragupta" — Episode 1, full-length
 **Tone:** cinematic museum-exhibit documentary (gold/saffron on dark), paced like a premium history channel
 **Format:** landscape 1920×1080 @30fps · ~8–9 min
-**Voice:** Hinglish, 3 storytelling voices — NARRATOR (voice-00), HARISENA (voice-01), HISTORIAN (voice-02)
+**Voice:** शुद्ध Hindi, 3 storytelling voices — NARRATOR (voice-00), HARISENA (voice-01), HISTORIAN (voice-02)
 **Music:** low tanpura drone, ducked −18dB (dropped in this render; add before upload)
 **Voice pipeline:** Arena/Gemini TTS preview → final production via OmniVoice (`tools/generate_voice_omnivoice.py --script playlist/full/voice-script.txt --out audio/full`) or VoiceStudio GUI
 
@@ -21,9 +21,9 @@
 
 ## Render
 1. Generate voice lines: `python tools/generate_voice_omnivoice.py --script playlist/full/voice-script.txt --out audio/full` (needs Hugging Face Hub access; see `tools/README.md`). Preview-quality clips already in `audio/full/` were made with Arena TTS.
-2. `python tools/make_video.py --scenes playlist/full/scenes.json --out video/full/samudragupta-full-hinglish.mp4`
+2. `python tools/make_video.py --scenes playlist/full/scenes.json --out video/full/samudragupta-full-hindi.mp4`
 
 ## Gate
 - [x] Storyboard + chapters defined → this plan
-- [x] brag.mp4 exists → `video/full/samudragupta-full-hinglish.mp4` (440.2s ≈ 7:20, 1920×1080, 3 Hinglish voices)
+- [x] brag.mp4 exists → `video/full/samudragupta-full-hindi.mp4` (440.2s ≈ 7:20, 1920×1080, 3 शुद्ध Hindi voices)
 - [x] Share copy written → `brag-output-full/share-copy.txt`

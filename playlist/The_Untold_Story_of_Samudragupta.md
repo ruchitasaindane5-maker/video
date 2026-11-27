@@ -1,7 +1,7 @@
 # The Untold Story of Samudragupta — YouTube Playlist
 
 **Channel Playlist Name:** `The Untold Story of Samudragupta`
-**Language:** Hinglish (हिंदी + English mix — Arena TTS audio previews generated with this, see `audio/preview/`; final voices via OmniVoice / VoiceStudio)
+**Language:** शुद्ध Hindi (Devanagari) — SINGLE FEMALE VOICE (voice-02) in both episodes; all Hinglish assets deleted
 **Format:** 1 Full Video (16:9, 8–10 min) + 1 YouTube Short (9:16, ~50 sec) per episode
 
 > This repo is the complete production pack for Episode 1. Scripts, storyboards,
@@ -69,7 +69,9 @@ assets/full/               ← images for Full Video (16:9)
 audio/preview/             ← Hinglish multi-voice audio previews (NARRATOR/HARISENA/HISTORIAN)
 audio/full/                ← full-episode Hinglish scene lines (Arena TTS; OmniVoice blocked by HF Hub network)
 docs/audit-report.md       ← automated media audit (clipping/DC/dead-air/silence/dims) — 37 assets, 0 issues
-video/full/                ← full-episode Hinglish render (7:20, 1920x1080)
+video/short/samudragupta-short-hindi.mp4 ← Ep 1 Short (Hindi, 65.9s)
+video/full/samudragupta-full-hindi.mp4 ← Ep 1 Full (Hindi, 6:53, 413s, 8 chapters incl. 15/15 lines)
+video/ep2/                 ← Ep 2 Short (74.5s) + Full (5:21), Hindi
 audio/README.md            ← how to regenerate final voices with OmniVoice
 tools/
   generate_voice_omnivoice.py  ← multi-voice storytelling with OmniVoice

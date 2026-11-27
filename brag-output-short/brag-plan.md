@@ -3,7 +3,7 @@
 **Product:** YouTube playlist "The Untold Story of Samudragupta" — Episode 1 Short
 **Tone:** cinematic museum-exhibit documentary (gold/saffron on dark)
 **Format:** vertical 1080×1920 @30fps · ~64s
-**Voice:** Hinglish, 2 storytelling voices — NARRATOR (voice-00), HARISENA (voice-01)
+**Voice:** शुद्ध Hindi, 2 storytelling voices — NARRATOR (voice-00), HARISENA (voice-01)
 **Music:** low tanpura drone, ducked −18dB (dropped in this render; add royalty-free drone before upload)
 **Voice pipeline:** Arena/Gemini TTS preview → final production via OmniVoice (`tools/generate_voice_omnivoice.py`) or VoiceStudio GUI
 
@@ -19,10 +19,10 @@
 | 6 | 0:54–1:05 | `assets/short/06-outro.jpg` — Gupta temple sunset, end card | fade | FULL STORY ON CHANNEL | NARRATOR |
 
 ## Render
-`python tools/make_video.py --scenes playlist/short/scenes.json --out video/short/samudragupta-short-hinglish.mp4`
+`python tools/make_video.py --scenes playlist/short/scenes.json --out video/short/samudragupta-short-hindi.mp4`
 Result: 63.6s, 1080×1920, H.264 + AAC. (Headless sandbox — Hyperframes' browser-based render was substituted with the PIL+ffmpeg Ken-Burns pipeline; `npx hyperframes` was not run.)
 
 ## Gate
-- [x] brag.mp4 exists → `video/short/samudragupta-short-hinglish.mp4`
+- [x] brag.mp4 exists → `video/short/samudragupta-short-hindi.mp4`
 - [x] Storyboard summed to runtime (63.6s)
 - [x] Share copy written → `brag-output-short/share-copy.txt`
