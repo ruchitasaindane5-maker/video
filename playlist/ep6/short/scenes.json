@@ -1,0 +1,13 @@
+{
+  "vertical": true,
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep6-short/01-three-crowns.jpg", "audio": ["audio/ep6-short/01-narrator.wav"], "text": "हर्ष के बाद का भारत", "hold": 0.6 },
+    { "image": "assets/ep6-short/02-vacuum.jpg", "audio": ["audio/ep6-short/02-narrator.wav"], "text": "सिंधु के घाट पर", "hold": 0.6 },
+    { "image": "assets/ep6-short/03-arab-frontier.jpg", "audio": ["audio/ep6-short/03-narrator.wav"], "text": "नागभट्ट I — अरबों की वापसी", "hold": 0.6 },
+    { "image": "assets/ep6-short/04-tripartite.jpg", "audio": ["audio/ep6-short/04-narrator.wav"], "text": "तीन वंश, एक सिंहासन", "hold": 0.6 },
+    { "image": "assets/ep6-short/05-bhoja.jpg", "audio": ["audio/ep6-short/05-narrator.wav"], "text": "मिहिर भोज का शिखर", "hold": 0.6 },
+    { "image": "assets/ep6-short/06-outro.jpg", "audio": ["audio/ep6-short/06-narrator.wav"], "text": "किसी ने नहीं जीता", "hold": 1.2 }
+  ]
+}
