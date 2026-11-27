@@ -70,7 +70,7 @@ audio/preview/             ← Hinglish multi-voice audio previews (NARRATOR/HAR
 audio/full/                ← full-episode Hinglish scene lines (Arena TTS; OmniVoice blocked by HF Hub network)
 docs/audit-report.md       ← automated media audit (clipping/DC/dead-air/silence/dims) — 37 assets, 0 issues
 video/short/samudragupta-short-hindi.mp4 ← Ep 1 Short (Hindi, 65.9s)
-video/full/                ← Ep 1 Full re-render pending lines 05-15
+video/full/samudragupta-full-hindi.mp4 ← Ep 1 Full (Hindi, 6:53, 413s, 8 chapters incl. 15/15 lines)
 video/ep2/                 ← Ep 2 Short (74.5s) + Full (5:21), Hindi
 audio/README.md            ← how to regenerate final voices with OmniVoice
 tools/
