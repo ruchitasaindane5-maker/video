@@ -148,10 +148,11 @@ Note: रामगुप्त–ध्रुवदेवी कथा drama "�
 - Status: Short + Full COMPLETE — शुद्ध Hindi, single female voice-02
 
 
-## Episode 6 — कन्नौज की त्रिपक्षीय जंग (in progress)
+## Episode 6 — कन्नौज की त्रिपक्षीय जंग (COMPLETE)
 **Title (Short):** हर्ष के बाद भारत का मालिक कौन बना? 3 वंश, 1 सिंहासन #shorts
 **Title (Full):** हर्ष के बाद — कन्नौज की त्रिपक्षीय जंग | प्रतिहार · पाल · राष्ट्रकूट (पूरा सच)
 **Language:** शुद्ध Hindi (Devanagari), SINGLE FEMALE VOICE (voice-02)
 - `playlist/ep6/short/` + `playlist/ep6/full/` — scripts, storyboards, scenes.json
 - Short rendered: `video/ep6/ep6-short-hindi.mp4` (84.9s)
-- Full: 4/8 voice lines; images 05-07 pending; render pending
+- Full rendered: `video/ep6/ep6-full-hindi.mp4` (238.9s, 8 scenes)
+- Status: Short + Full COMPLETE — शुद्ध Hindi, single female voice-02
