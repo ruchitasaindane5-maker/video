@@ -1,0 +1,13 @@
+{
+  "vertical": true,
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep4-short/01-huna-return.jpg", "audio": ["audio/ep4-short/01-narrator.wav"], "text": "एक दीवार गिर गई", "hold": 0.6 },
+    { "image": "assets/ep4-short/02-purugupta-court.jpg", "audio": ["audio/ep4-short/02-narrator.wav"], "text": "467 ईसवी", "hold": 0.6 },
+    { "image": "assets/ep4-short/03-toramana.jpg", "audio": ["audio/ep4-short/03-narrator.wav"], "text": "तोरामण की लहर", "hold": 0.6 },
+    { "image": "assets/ep4-short/04-sondani-battle.jpg", "audio": ["audio/ep4-short/04-narrator.wav"], "text": "सोन्दानी — 528 ईसवी", "hold": 0.6 },
+    { "image": "assets/ep4-short/05-fragmented-map.jpg", "audio": ["audio/ep4-short/05-narrator.wav"], "text": "साम्राज्य के टुकड़े", "hold": 0.6 },
+    { "image": "assets/ep4-short/06-outro.jpg", "audio": ["audio/ep4-short/06-narrator.wav"], "text": "हर्ष की विरासत", "hold": 1.2 }
+  ]
+}

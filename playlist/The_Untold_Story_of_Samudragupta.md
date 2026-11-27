@@ -127,3 +127,12 @@ Note: रामगुप्त–ध्रुवदेवी कथा drama "�
 - `playlist/ep3/short/` + `playlist/ep3/full/` — scripts, storyboards, scenes.json
 - Short rendered: `video/ep3/ep3-short-hindi.mp4` (67.1s)
 - **Status: COMPLETE** — `video/ep3/ep3-full-hindi.mp4` (4:21, 261s) + Short (67.1s) rendered; Hindi, voice-02
+
+
+## Episode 4 — गुप्त सूर्यास्त (in progress)
+**Title (Short):** आखिरी दीवार गिर गई — Gupta Empire का सूर्यास्त #shorts
+**Title (Full):** गुप्त सूर्यास्त — जब आखिरी दीवार गिर गई: हूणों की वापसी (पूरा सच)
+**Language:** शुद्ध Hindi (Devanagari), SINGLE FEMALE VOICE (voice-02)
+- `playlist/ep4/short/` + `playlist/ep4/full/` — scripts, storyboards, scenes.json
+- Short rendered: `video/ep4/ep4-short-hindi.mp4` (63.1s)
+- **Status: COMPLETE** — `video/ep4/ep4-full-hindi.mp4` (3:44, 224s) + Short (63.1s) rendered; Hindi, voice-02

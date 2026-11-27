@@ -1,0 +1,15 @@
+{
+  "vertical": false,
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep4-full/01-huna-return-map.jpg", "audio": ["audio/ep4-full/01-narrator.wav"], "text": "गुप्त सूर्यास्त", "hold": 0.8 },
+    { "image": "assets/ep4-full/02-purugupta-court.jpg", "audio": ["audio/ep4-full/02-narrator.wav"], "text": "467 — बिना नेतृत्व के", "hold": 0.6 },
+    { "image": "assets/ep4-full/03-toramana.jpg", "audio": ["audio/ep4-full/03-narrator.wav"], "text": "तोरामण की वापसी", "hold": 0.6 },
+    { "image": "assets/ep4-full/04-mihirakula.jpg", "audio": ["audio/ep4-full/04-narrator.wav"], "text": "मिहिरकुल", "hold": 0.6 },
+    { "image": "assets/ep4-full/05-sondani.jpg", "audio": ["audio/ep4-full/05-narrator.wav"], "text": "दो दीवारें", "hold": 0.6 },
+    { "image": "assets/ep4-full/06-fragmented-empire.jpg", "audio": ["audio/ep4-full/06-narrator.wav"], "text": "साम्राज्य के टुकड़े", "hold": 0.6 },
+    { "image": "assets/ep4-full/07-outro.jpg", "audio": ["audio/ep4-full/07-narrator.wav"], "text": "सच क्या था?", "hold": 0.6 },
+    { "image": "assets/ep4-full/07-outro.jpg", "audio": ["audio/ep4-full/08-narrator.wav"], "text": "एपिसोड 5 — हर्ष", "hold": 1.5 }
+  ]
+}
