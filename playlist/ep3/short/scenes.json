@@ -1,0 +1,13 @@
+{
+  "vertical": true,
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "scenes": [
+    { "image": "assets/ep3-short/01-huna-map.jpg", "audio": ["audio/ep3-short/01-narrator.wav"], "text": "एक दीवार — स्कान्दगुप्त", "hold": 0.6 },
+    { "image": "assets/ep3-short/02-kumaragupta.jpg", "audio": ["audio/ep3-short/02-narrator.wav"], "text": "455 ईसवी", "hold": 0.6 },
+    { "image": "assets/ep3-short/03-battle.jpg", "audio": ["audio/ep3-short/03-narrator.wav"], "text": "स्कान्दगुप्त का अभियान", "hold": 0.6 },
+    { "image": "assets/ep3-short/04-bhitari-pillar.jpg", "audio": ["audio/ep3-short/04-narrator.wav"], "text": "भेतरी स्तंभ", "hold": 0.6 },
+    { "image": "assets/ep3-short/05-decline-coins.jpg", "audio": ["audio/ep3-short/05-narrator.wav"], "text": "हर जीत की कीमत", "hold": 0.6 },
+    { "image": "assets/ep3-short/06-outro.jpg", "audio": ["audio/ep3-short/06-narrator.wav"], "text": "गुप्तों का आखिरी रक्षक", "hold": 1.2 }
+  ]
+}
