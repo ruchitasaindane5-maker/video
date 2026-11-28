@@ -1,7 +1,7 @@
 # YouTube Upload Package — EP 1 (Full) — समुद्रगुप्त
 
 ## Title (English/Hindi mix, searchable)
-समुद्रगुप्त — जिसने पूरा भारत जीत लिया… फिर लौटा दिया (पूरी अनकही कहानी) | The Untold Story of Samudragupta
+समुद्रगुप्त — पूरा भारत जीता… और फिर लौटा दिया | The Untold Story of Samudragupta
 
 (Short version: "समुद्रगुप्त — जिसने पूरा भारत जीत लिया… फिर लौटा दिया? #shorts")
 
@@ -137,9 +137,9 @@ Samudragupta, Gupta Empire, Indian history, ancient India, Allahabad Pillar, Vik
 # YouTube Upload Package — EP 2 (Full) — चन्द्रगुप्त द्वितीय / विक्रमादित्य
 
 ## Title (Hindi)
-चन्द्रगुप्त द्वितीय — वह सम्राट जिसने Sakas का अंत किया और 'विक्रमादित्य' बन गया | The Untold Story of Samudragupta
+चन्द्रगुप्त द्वितीय — Sakas का अंत, विक्रमादित्य का जन्म | The Untold Story of Samudragupta
 
-(Short version: "रामगुप्त को हराया, Sakas का अंत किया — कौन था ये सम्राट? #shorts")
+(Short version: "रामगुप्त के सिंहासन से Sakas के अंत तक — चन्द्रगुप्त द्वितीय #shorts")
 
 ## Description (Hindi)
 उसकी कहानी एक सिंहासन और दो भाइयों से शुरू होती है — और एक पूरी सभ्यता के चरम पर ख़त्म होती है। जानिए गुप्त वंश के दूसरे महान सम्राट चन्द्रगुप्त द्वितीय की पूरी गाथा — जिसने Sakas का नामोनिशान मिटाया, उज्जैन को भारत की दूसरी राजधानी बनाया, फाहियान जैसे चीनी यात्रियों को हैरान कर दिया — और बाद के युगों में "विक्रमादित्य" कहलाए।
@@ -191,9 +191,9 @@ Playlist: The Untold Story of Samudragupta
 ---
 
 ## Title
-Chandragupta II — The Emperor Who Destroyed the Sakas and Became "Vikramaditya" | The Untold Story of Samudragupta
+Chandragupta II: Vikramaditya — The Fall of the Sakas | The Untold Story of Samudragupta
 
-(Short version: "He defeated his brother, ended the Sakas, uplifted Sanskrit — who was this emperor? #shorts")
+(Short version: "From his brother's throne to Vikramaditya — Chandragupta II #shorts")
 
 ## Description
 It begins with a throne and two brothers — and ends at the very summit of an entire civilization. This is the complete saga of Emperor Chandragupta II, second great emperor of the Gupta dynasty — who erased the last Western Kshatrapa (Saka) king, made Ujjain a second capital of India, stunned the Chinese pilgrim Faxian, and was remembered by later ages as "Vikramaditya" — the Sun of Valor.
